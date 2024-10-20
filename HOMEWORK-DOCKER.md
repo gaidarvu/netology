@@ -9,6 +9,11 @@
 
 Задача 3
 
+![1](https://github.com/user-attachments/assets/5b154cea-2f4c-4a23-bbc5-bf24e677eb35)
+
+![2](https://github.com/user-attachments/assets/ed44a52c-16d4-42b2-957a-11eb4e404cc4)
+
+
 По поводу отваливающегося контейнера после того, как подцепился к потоку ввода/вывода/ошибок
 Следует указывать горячие клавиши для детач через --detach-keys
 Либо цепляться без stdin, чтоб не передавать в контейнер лишних комбинаций (--no-stdin), тогда ctrl+c отработает нормально
@@ -19,10 +24,34 @@
 Порт хоста следует проксировать на тот порт, который указали в конфиге nginx в контейнере.
 Поменять порт проксирования не удаляя контейнер так и не получилось
 
+Задача 4
+
+![4](https://github.com/user-attachments/assets/834cd36e-e824-4283-bf2e-664aa605512e)
+
+
 Задача 5
+
+![5-1](https://github.com/user-attachments/assets/b83312a1-e625-4afc-bd00-04225ef57710)
 
 В оставленной подсказке сказано, что если в директории существует 2 файла, то приоритет отдается compose.yaml.
 Что-бы отработали два файла yaml, достаточно добавить в compose.yaml секцию include и указать в ней второй файл. После этого выпольнить docker compose up -d заново
+
+![5-2](https://github.com/user-attachments/assets/589a7c9b-a007-4cd8-99b4-669903aa5f00)
+
+![5-3](https://github.com/user-attachments/assets/24fefe87-0f1d-4d72-84ed-803800c13851)
+
+[Uploading compose.yaml…]()include:
+  - docker-compose.yaml
+version: "3"
+services:
+  portainer:
+    image: portainer/portainer-ce:latest
+    network_mode: host
+    ports:
+      - "9000:9000"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+
 
 По поводу удаления файла compose.yaml. Предупреждение гласит что найдены осиротевшие контейнеры.
 Логика подсказывает, что  компоузу не нравится что он видит запущеные контейнеры от прошлого запуска, но в текущей конфигурации они отсутствуют.
