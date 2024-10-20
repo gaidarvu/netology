@@ -1,13 +1,13 @@
-Задача 1
+**Задача 1**
 
 [dockerhub-репозиторий](https://hub.docker.com/repository/docker/vyacheslavgaidar/custom-nginx/general)
 
-Задача 2
+**Задача 2**
 
 ![Screenshot 2024-10-18 105547](https://github.com/user-attachments/assets/5e904424-1b25-48bf-b168-8943052cf655)
 
 
-Задача 3
+**Задача 3**
 
 ![1](https://github.com/user-attachments/assets/5b154cea-2f4c-4a23-bbc5-bf24e677eb35)
 
@@ -24,12 +24,12 @@
 Порт хоста следует проксировать на тот порт, который указали в конфиге nginx в контейнере.
 Поменять порт проксирования не удаляя контейнер так и не получилось
 
-Задача 4
+**Задача 4**
 
 ![4](https://github.com/user-attachments/assets/834cd36e-e824-4283-bf2e-664aa605512e)
 
 
-Задача 5
+**Задача 5**
 
 ![5-1](https://github.com/user-attachments/assets/b83312a1-e625-4afc-bd00-04225ef57710)
 
@@ -39,9 +39,6 @@
 ![5-2](https://github.com/user-attachments/assets/589a7c9b-a007-4cd8-99b4-669903aa5f00)
 
 ![5-3](https://github.com/user-attachments/assets/24fefe87-0f1d-4d72-84ed-803800c13851)
-
-[Uploading compose.yaml…]
-
 
 По поводу удаления файла compose.yaml. Предупреждение гласит что найдены осиротевшие контейнеры.
 Логика подсказывает, что  компоузу не нравится что он видит запущеные контейнеры от прошлого запуска, но в текущей конфигурации они отсутствуют.
