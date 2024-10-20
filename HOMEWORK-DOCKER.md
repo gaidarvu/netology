@@ -1,3 +1,9 @@
+Задача 1
+
+[dockerhub-репозиторий](https://hub.docker.com/repository/docker/vyacheslavgaidar/custom-nginx/general)
+
+Задача 2
+
 Задача 3
 
 По поводу отваливающегося контейнера после того, как подцепился к потоку ввода/вывода/ошибок
