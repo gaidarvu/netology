@@ -40,17 +40,7 @@
 
 ![5-3](https://github.com/user-attachments/assets/24fefe87-0f1d-4d72-84ed-803800c13851)
 
-[Uploading compose.yaml…]()include:
-  - docker-compose.yaml
-version: "3"
-services:
-  portainer:
-    image: portainer/portainer-ce:latest
-    network_mode: host
-    ports:
-      - "9000:9000"
-    volumes:
-      - /var/run/docker.sock:/var/run/docker.sock
+[Uploading compose.yaml…]
 
 
 По поводу удаления файла compose.yaml. Предупреждение гласит что найдены осиротевшие контейнеры.
