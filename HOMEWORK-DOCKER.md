@@ -1,4 +1,4 @@
-#**Задача 1**
+#Задача 1
 
 [dockerhub-репозиторий](https://hub.docker.com/repository/docker/vyacheslavgaidar/custom-nginx/general)
 
