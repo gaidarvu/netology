@@ -12,10 +12,13 @@
 
 ## Задача 6
 
+
 Скрин действий
+
 ![Screenshot 2024-10-29 095942](https://github.com/user-attachments/assets/33c6cd84-6e0b-4102-8909-09b806e1bc27)
 
 Скрин  Dive
+
 ![Screenshot 2024-10-29 095806](https://github.com/user-attachments/assets/36511b23-ec66-4048-a077-80699dc1eb16)
 
 
