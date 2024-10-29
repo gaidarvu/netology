@@ -2,6 +2,11 @@
 
 ![Screenshot 2024-10-28 175917](https://github.com/user-attachments/assets/c097dacb-eba4-4d8f-8504-42676cbdaa78)
 
+Запрос curl
+
+![Screenshot 2024-10-29 101533](https://github.com/user-attachments/assets/f1699bfb-43eb-4c3a-b229-a56983c2df5c)
+
+
 ## Задача 4
 
 ![Screenshot 2024-10-29 001239](https://github.com/user-attachments/assets/8230a204-a13f-4afe-b9db-f99464d680ea)
