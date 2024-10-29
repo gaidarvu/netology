@@ -10,13 +10,13 @@
 
 [Fork репозиторий](https://github.com/gaidarvu/shvirtd-example-python)
 
-## Задача 5
+## Задача 6
 
-![5-1](https://github.com/user-attachments/assets/b83312a1-e625-4afc-bd00-04225ef57710)
+Скрин действий
+![Screenshot 2024-10-29 095942](https://github.com/user-attachments/assets/33c6cd84-6e0b-4102-8909-09b806e1bc27)
 
-![5-2](https://github.com/user-attachments/assets/589a7c9b-a007-4cd8-99b4-669903aa5f00)
+Скрин  Dive
+![Screenshot 2024-10-29 095806](https://github.com/user-attachments/assets/36511b23-ec66-4048-a077-80699dc1eb16)
 
-![5-3](https://github.com/user-attachments/assets/24fefe87-0f1d-4d72-84ed-803800c13851)
 
-[compose.yaml](https://github.com/gaidarvu/netology/blob/main/compose.yaml)
 
