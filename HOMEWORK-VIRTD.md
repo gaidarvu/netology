@@ -21,7 +21,7 @@
 
 ![Screenshot 2024-10-29 095806](https://github.com/user-attachments/assets/36511b23-ec66-4048-a077-80699dc1eb16)
 
-## Задача 6
+## Задача 6.1
 
 Через docker cp
 
