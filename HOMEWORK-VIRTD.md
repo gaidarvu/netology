@@ -1,6 +1,6 @@
 ## Задача 3
 
-
+![Screenshot 2024-10-28 175917](https://github.com/user-attachments/assets/c097dacb-eba4-4d8f-8504-42676cbdaa78)
 
 ## Задача 4
 
