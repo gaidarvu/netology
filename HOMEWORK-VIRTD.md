@@ -6,7 +6,9 @@
 
 ![Screenshot 2024-10-29 001239](https://github.com/user-attachments/assets/8230a204-a13f-4afe-b9db-f99464d680ea)
 
-[setup_repo.sh](https://github.com/gaidarvu/shvirtd-example-python/blob/main/setup_repo.sh)
+[Скрипт для запуска проекта из репозитория (ссылка на github)](https://github.com/gaidarvu/shvirtd-example-python/blob/main/setup_repo.sh)
+
+[Fork репозиторий](https://github.com/gaidarvu/shvirtd-example-python)
 
 ## Задача 5
 
