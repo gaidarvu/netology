@@ -6,18 +6,7 @@
 
 ![Screenshot 2024-10-29 001239](https://github.com/user-attachments/assets/8230a204-a13f-4afe-b9db-f99464d680ea)
 
-[Uploading set#! /bin/bash
-
-REPO_PATH=/opt/shvirtd-example-python
-
-# get repo
-git clone https://github.com/gaidarvu/shvirtd-example-python.git $REPO_PATH
-
-# run project
-cd $REPO_PATH
-docker compose up -d
-cdup_repo.sh…]()
-
+[setup_repo.sh](https://github.com/gaidarvu/shvirtd-example-python/blob/main/setup_repo.sh)
 
 ## Задача 5
 
